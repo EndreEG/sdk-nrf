@@ -28,6 +28,8 @@ LOG_MODULE_REGISTER(app_main, LOG_LEVEL_INF);
 
 #define CON_STATUS_LED DK_LED1
 
+/* This comment should never be merged*/
+
 #define CS_CONFIG_ID	       0
 #define NUM_MODE_0_STEPS       3
 #define PROCEDURE_COUNTER_NONE (-1)
